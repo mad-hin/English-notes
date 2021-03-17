@@ -35,10 +35,38 @@
 * Writing a complaint
     - `I am writing to complaint`...
     - `I am writing to express my concern of`...
+    - `I would like to that this opportunity to express my disappointment towards XXX`
+    - `I sincerely hope that all of you read through this email seriously to XXX`
+    - `I would like to emphasize the importance of XXX`
+    - `To begin with, it was unacceptable and intolerable for you to ...`
+    - `Therefore, in the foreseeable future, please act more resonsibly and follow XXX`
+    - `I would like to highlight once again the XXX.`
+    - `It is extremely disrespectful for your staff to...`
+    - `I sincerely hope that after reading this email, you would learn how to reflect on...`
+    - 
+
+
+
 * replying a complaint
     - `I am writing refer to you some of the views and suggestion that you have recently raised up`
 
 ### Letter of Advice
+* - `I would like to offer you some advice on how to prepare for the ... and what to...
+* - `I think the first thing you have to do...
+* - `Having a thorough understanding of ... is important for you to...
+* - `I am sure that it will help you...
+* - `Another reminder is that you should get yourself prepared for...
+* - `You have already made a great step forward with ...
+* - `Good luck! Everything will run smoothly. I look forward to your good news.
+* - `I would like to offer you some advice on ... and recommend an alternative XXX for you.
+* - `To be sure, all these would...
+* - `I am quite sure that you would benefir even more from XXX than XXX 
+* - `Please be reminded that...`
+* - `I am sure many of you have had the experience of XXX...
+* - `Another piece of advice is that...`
+* - `I really hope you can take my advice...`
+* - `I am always here to help. Just let me know if you are any problems`
+* - 
 
 ### Letter to the Editor
 
