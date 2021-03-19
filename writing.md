@@ -40,7 +40,7 @@
     - `I sincerely hope that all of you read through this email seriously to` XXX
     - `I would like to emphasize the importance of` XXX
     - `To begin with, it was unacceptable and intolerable for you to ...`
-    - `Therefore, in the foreseeable future, please act more responsibly and follow` XXX <!--resonsibly or responsibly ? -->
+    - `Therefore, in the foreseeable future, please act more responsibly and follow` XXX 
     - `I would like to highlight once again the` XXX.
     - `It is extremely disrespectful for your staff to...`
     - `I sincerely hope that after reading this email, you would learn how to reflect on...`
@@ -71,6 +71,7 @@
 
 * `I am writing to register my concern about XXX ...`
 * `In light of this, I hope to bring to the public's attention...`
+* `Through the esteemed columns of your highly reputed newspaper I want to express my great concern and anxiety over the burning issue of…`
 
 ### Proposal
 
