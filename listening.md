@@ -6,7 +6,7 @@
 
 #### Greeting <br>
 
-Dear Sir/Madam,  <br>
+Dear Sir/Madam, <br>
 
 #### Opening <br>
 
@@ -37,7 +37,7 @@ Mirror your introduction, succinctly wrapping up your general message (參考介
 
 #### Sign off <br>
 
-Yours faithfully,  <br>
+Yours faithfully, <br>
 (Signature) <br>
 (Name) <br>
 (Your title) <br>
@@ -93,7 +93,7 @@ Ask for readers to leave a comment or share their thoughts  <br>
 
 #### Greeting <br>
 
-Dear Sir/Madam,  <br>
+Dear Sir/Madam, <br>
 
 #### Opening <br>
 
@@ -153,7 +153,7 @@ In the top left: <br>
 
 #### Greeting <br>
 
-Dear Sir/Madam,  <br>
+Dear Sir/Madam, <br>
 
 #### Opening <br>
 
@@ -179,7 +179,7 @@ Example: “We hope to hear from you soon.” <br>
 
 #### Sign off <br>
 
-Sincerely,  <br>
+Sincerely, <br>
 (Signature) <br>
 (Name) <br>
 (Your title) <br>
@@ -196,7 +196,7 @@ In the top left-hand corner: <br>
 
 #### Greeting <br>
 
-Dear Sir/Madam,  <br>
+Dear Sir/Madam, <br>
 
 #### Opening <br>
 
@@ -223,7 +223,7 @@ Example: “Please contact me at the above address or by phone at 098100XXXXX.�
 
 #### Sign off <br>
 
-Yours faithfully / sincerely,  <br>
+Yours faithfully / sincerely, <br>
 (Signature) <br>
 (Name) <br>
 
@@ -290,7 +290,7 @@ End with a powerful, short sentence that is likely to stick in the audience's mi
 
 #### Greeting <br>
 
-Dear editor,  <br>
+Dear editor, <br>
 
 #### Opening <br>
 
@@ -321,6 +321,6 @@ Restate your stance: you disagree with the stated opinion <br>
 
 #### Sign off <br>
 
-Yours faithfully,  <br>
+Yours faithfully, <br>
 (Signature) <br>
 (Name) <br>

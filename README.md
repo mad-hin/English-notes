@@ -7,7 +7,7 @@
         - [Proposing suggestions](writing.md#proposing-suggestions)
         - [Point out reason](writing.md#point-out-reason)
         - [Provide evidence/ data to support arguments](writing.md#provide-evidence-data-to-support-arguments)
-        - [Opening paragraph](writing.md#opening-paragraph)
+        - [Opening & Ending](writing.md#opening--ending)
             - [Complaint Letter](writing.md#complaint-letter)
             - [Letter of Advice](writing.md#letter-of-advice)
             - [Letter to the Editor](writing.md#letter-to-the-editor)

@@ -24,12 +24,12 @@
 * `To begin with, it is beyond dispute`...
 * `Another reason that people voice out their complaints is that`...
 
-## Provide evidence` data to support arguments
+## Provide evidence/ data to support arguments
 
 * `Recent research shows that found out that`...
 * `Medical experts have pointed out that`...
 
-## Opening paragraph
+## Opening & Ending
 
 ### Complaint Letter
 
@@ -37,6 +37,7 @@
     - `I am writing to complaint...`
     - `I am writing to express my concern of...`
     - `I would like to that this opportunity to express my disappointment towards` XXX
+    - `I am writing to express my dissatisfaction with` XXX
     - `I sincerely hope that all of you read through this email seriously to` XXX
     - `I would like to emphasize the importance of` XXX
     - `To begin with, it was unacceptable and intolerable for you to ...`
@@ -44,10 +45,14 @@
     - `I would like to highlight once again the` XXX.
     - `It is extremely disrespectful for your staff to...`
     - `I sincerely hope that after reading this email, you would learn how to reflect on...`
+    - `Thanks for your extremely helpful attention towards this matter.`
+    - `I hope my points will be taken into consideration.`
+    - `I hope this letter will rise up to the occasion and give a new definition and direction to the ways and means of the concerned authorities.`
 
 * Replying a complaint
     - `I am writing refer to you some of the views and suggestion that you have recently raised up`
     - `I received your address from ... and would like to ...`
+    - `If we can be of any further assistance, please let us know`
 
 ### Letter of Advice
 
@@ -72,10 +77,24 @@
 * `I am writing to register my concern about XXX ...`
 * `In light of this, I hope to bring to the public's attention...`
 * `Through the esteemed columns of your highly reputed newspaper I want to express my great concern and anxiety over the burning issue of…`
+* `I would like to draw the attention of the authorities through the column of your daily newspaper, to the pitiable conditions/…`
+* `I was deeply pained to read the press report in your newspaper captioned ‘`(Title)`’ that appeared on the ...`
+* `There is a lot of hue and cry on this situation.`
 
 ### Proposal
 
 ### Speech
+
+* `Good morning/afternoon` (audience).
+* `It’s a pleasure to be here.`
+* `I plan to say a few words about...`
+* `I’m going to talk about...`
+* `The subject of my talk is...`
+* `My talk will be in` (number of points)
+* `To sum up...`
+* `In brief, there are several advantages and disadvantages.`
+* `I’d like to end by emphasizing the main points.`
+* `I’d like to end with a summary of the main points.`
 
 ### Short Story
 
