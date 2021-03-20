@@ -22,6 +22,7 @@ Here's where you should state your problem. If your readers don't know much abou
 Emphasize why your problem needs to be solved and needs to be solved now. How will it affect your audience if left alone? Make sure to answer all questions and cover them with research and facts. Use credible sources liberally. <br>
 
 Propose solutions <br>
+
 The solutions section is where you get into how you will address the problem, why you will do it in this way, and what the outcomes will be. To make sure you've got a persuasive proposal (確保你的建議有説服力的), think about the following: <br>
 
 The larger impact of your ideas (提出的建議有多大的影響力). Ideas that seem of limited applicability aren't as likely to spark enthusiasm in readers as ideas that could have widespread effects. (較少影響力啲建議較低機會激發讀者的熱情，並不能産生廣泛的影響)  <br>
