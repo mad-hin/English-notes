@@ -27,6 +27,13 @@
     - [Social issue](Vocab.md#social-issue)
   
 * [Listening <br>](listening.md#listening-)
+  + [Part A](listening.md#part-a)
+    - [Common wordings](listening.md#common-wordings)
+      - [Places & Street name in Hong Kong](listening.md#places--street-name-in-hong-kong)
+        - [District](listening.md#district)
+        - [Landmarks](listening.md#landmarks)
+        - [Street Name](listening.md#street-name)
+      - [Country Names](listening.md#country-names)
   + [Part B: Format <br>](listening.md#part-b-format-)
     - [Proposal 建議書 <br>](listening.md#proposal-建議書-)
       - [Greeting <br>](listening.md#greeting-)

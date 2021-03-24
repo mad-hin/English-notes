@@ -51,6 +51,43 @@
 | Victoria Peak                              | 太平山           |
 
 ##### Street Name
+
+#### Country Names
+
+ | English Name             | 中文名稱   |
+ | ------------------------ | ---------- |
+ | Australia                | 澳洲       |
+ | Austria                  | 奧地利     |
+ | Belgium                  | 比利時     |
+ | Brazil                   | 巴西       |
+ | Canada                   | 加拿大     |
+ | Denmark                  | 丹麥       |
+ | Finland                  | 芬蘭       |
+ | France                   | 法國       |
+ | Germany                  | 德國       |
+ | Greece                   | 希臘       |
+ | Iceland                  | 冰島       |
+ | Indonesia                | 印尼       |
+ | Italy                    | 意大利     |
+ | Japan                    | 日本       |
+ | Luxembourg               | 盧森堡     |
+ | Malaysia                 | 馬來西亞   |
+ | Montenegro               | 黑山共和國 |
+ | Morocco                  | 摩洛哥     |
+ | Netherlands              | 荷蘭       |
+ | New Zealand              | 紐西蘭     |
+ | Portugal                 | 葡萄牙     |
+ | Russia                   | 俄羅斯     |
+ | Singapore                | 新加坡     |
+ | South Africa             | 南非       |
+ | South Korea              | 南韓       |
+ | Spain                    | 西班牙     |
+ | Sweden                   | 瑞典       |
+ | Switzerland              | 瑞士       |
+ | Turkey                   | 土耳其     |
+ | United Kingdom           | 英國       |
+ | United States of America | 美國       |
+
 ## Part B: Format <br>
 
 ### Proposal 建議書 <br>
