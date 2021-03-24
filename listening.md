@@ -5,25 +5,52 @@
 ### Common wordings
 
 #### Places & Street name in Hong Kong 
-* Islands 
-* Kwai Tsing 
-* North 
-* Sai Kung 
-* Sha Tin 
-* Tai Po
-* Tsuen Wan
-* Tuen Mun
-* Yuen Long
-* Kowloon City 
-* Kwun Tong 
-* Sham Shui Po
-* Wong Tai Sin 
-* Yau Tsim Mong 
-* Central and Western 
-* Eastern 
-* Southern 
-* Wan Chai
 
+##### District
+
+* Hong Kong Island
+    - North
+    - Central and Western 
+    - Eastern 
+    - Southern 
+    - Wan Chai
+* Kowloon
+    - Kowloon City 
+    - Kwun Tong 
+    - Sham Shui Po
+    - Wong Tai Sin 
+    - Yau Tsim Mong 
+* New Territories
+    - Islands 
+    - Kwai Tsing 
+    - Sai Kung 
+    - Sha Tin 
+    - Tai Po
+    - Tsuen Wan
+    - Tuen Mun
+    - Yuen Long
+
+##### Landmarks
+
+| English Name                               | 中文名稱         |
+| ------------------------------------------ | ---------------- |
+| Exchange Square                            | 交易廣場         |
+| Hong Kong City Hall                        | 香港大會堂       |
+| Hong Kong Coliseum                         | 香港體育館       |
+| Hong Kong Convention and Exhibition Centre | 香港會議展覽中心 |
+| Hong Kong Science Park                     | 香港科學園       |
+| International Finance Centre (IFC)         | 香港國際金融中心 |
+| Lam Tsuen Wishing Tree                     | 林村許願樹       |
+| Lan Kwai Fong                              | 蘭桂坊           |
+| Lion Rock                                  | 獅子山           |
+| Tai Kwun                                   | 大館             |
+| Temple Street                              | 廟街             |
+| Tian Tan Buddha                            | 天壇大佛         |
+| Times Square                               | 時代廣場         |
+| Tsing Ma Bridge                            | 青馬大橋         |
+| Victoria Peak                              | 太平山           |
+
+##### Street Name
 ## Part B: Format <br>
 
 ### Proposal 建議書 <br>
