@@ -109,6 +109,23 @@
 * `I'd recommend xxx...`
 
 ### Short Story
+* `A while later...`
+* `After some time…`
+* `At the same time…`
+* `Once upon a time…`
+* `All of a sudden`
+* `Just a couple of minutes...`
+* `The sky was raining with drizzles...`
+* `All were usual. No one could foresee that the disaster was arriving after a couple hours...`
+* `Once I put my step out of my school/home...`
+* `The darkness veiled the blue sky`
+* `All vehicles stopped at once`
+* `I saw an odd looking lady…`
+* `All people backed to their home and trapped this terrible experience in the deepest region of their brain`
+* `As far as I could remember, I had always been in a cage since my birth...`
+* `Where am I? I was confused but my curiosity drove me to get out of the bed to found out what was going on.` 
+* `I walked down stairs and see if anyone was here`
+* `Out of curiosity, I decided to...`
 * 
 
 ### Article 
