@@ -19,7 +19,8 @@ wdfwdf|sdf
 | losing graciously                    | 大方接受賽果/失敗       |
 | medalist                   | 獎牌得主      
 | opening ceremony                     | 開幕禮      |
-| trophy                     | 獎杯      |
+| trophy                     | 獎杯|
+| stadium                     |體育館|
 ## Drama
 
 ## Short stories
