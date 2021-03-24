@@ -232,87 +232,87 @@ Dear Sir/Madam, <br>
 
 #### Opening <br>
 
-Start With A Firm Introduction <br>
-This Should Start Out With A Hook (應先勾引讀者的注意力). Ideally, You Want Your Readers Enraptured (被吸引) From Point One. Make Your Proposal As Purposeful And Useful As Possible. Use Some Background Information To Get Your Readers In The Zone. Then State The Purpose Of Your Proposal. <br>
+Start with a firm introduction <br>
+This should start out with a hook (應先勾引讀者的注意力). Ideally, you want your readers enraptured (被吸引) from point one. Make your proposal as purposeful and useful as possible. Use some background information to get your readers in the zone. Then state the purpose of your proposal. <br>
 
 #### Body <br>
 
-State The Problem <br>
+State the problem <br>
 
-Here'S Where You Should State Your Problem. If Your Readers Don'T Know Much About The Circumstance, Fill Them In. Think Of This As The "State Of Affairs" Section Of Your Proposal (當作交代事態發展). What Is The Problem? What Is Causing The Problem? What Effects Does This Problem Have? <br>
+Here's where you should state your problem. If your readers don't know much about the circumstance, fill them in. Think of this as the "state of affairs" section of your proposal (當作交代事態發展). What is the problem? What is causing the problem? What effects does this problem have? <br>
 
-Emphasize Why Your Problem Needs To Be Solved And Needs To Be Solved Now. How Will It Affect Your Audience If Left Alone? Make Sure To Answer All Questions And Cover Them With Research And Facts. Use Credible Sources Liberally. <br>
+Emphasize why your problem needs to be solved and needs to be solved now. How will it affect your audience if left alone? Make sure to answer all questions and cover them with research and facts. Use credible sources liberally. <br>
 
-Propose Solutions <br>
+Propose solutions <br>
 
-The Solutions Section Is Where You Get Into How You Will Address The Problem, Why You Will Do It In This Way, And What The Outcomes Will Be. To Make Sure You'Ve Got A Persuasive Proposal (確保你的建議有説服力的), Think About The Following: <br>
+The solutions section is where you get into how you will address the problem, why you will do it in this way, and what the outcomes will be. To make sure you've got a persuasive proposal (確保你的建議有説服力的), think about the following: <br>
 
-The Larger Impact Of Your Ideas (提出的建議有多大的影響力). Ideas That Seem Of Limited Applicability Aren'T As Likely To Spark Enthusiasm In Readers As Ideas That Could Have Widespread Effects. (較少影響力啲建議較低機會激發讀者的熱情，並不能産生廣泛的影響)  <br>
+The larger impact of your ideas (提出的建議有多大的影響力). Ideas that seem of limited applicability aren't as likely to spark enthusiasm in readers as ideas that could have widespread effects. (較少影響力啲建議較低機會激發讀者的熱情，並不能産生廣泛的影響)  <br>
 
-Example: "Greater Knowledge Of Tuna Behavior Can Allow Us To Create A More Comprehensive Management Strategy And Ensure Canned Tuna For Future Generations." <br>
+Example: "Greater knowledge of tuna behavior can allow us to create a more comprehensive management strategy and ensure canned tuna for future generations." <br>
 
-Addressing Why You Will Do Something Is As Important As Stating What You Will Do.  Presume That Your Readers Are Skeptical And Will Not Accept Your Ideas At Face Value. If You'Re Proposing To Do A Catch-And-Release Study Of 2, 000 Wild Tuna, Why? <br>
+Addressing why you will do something is as important as stating what you will do.  Presume that your readers are skeptical and will not accept your ideas at face value. If you're proposing to do a catch-and-release study of 2, 000 wild tuna, why? <br>
 
 #### Closing <br>
 
-Wrap Up And Restate Main Points <br>
-Mirror Your Introduction, Succinctly Wrapping Up Your General Message (參考介紹段落，簡單總結文章的要點). If There Are Consequences To Your Proposal Not Being Undertaken, Address Them. Summarize The Benefits Of Your Proposal And Drive Home That The Benefits Outweigh The Costs (帶出文章的建議好處多於弊處以作總結). Leave Your Audience Thinking Ahead. And, As Always, Thank Them For Their Consideration And Time. <br>
+Wrap up and restate main points <br>
+Mirror your introduction, succinctly wrapping up your general message (參考介紹段落，簡單總結文章的要點). If there are consequences to your proposal not being undertaken, address them. Summarize the benefits of your proposal and drive home that the benefits outweigh the costs (帶出文章的建議好處多於弊處以作總結). Leave your audience thinking ahead. And, as always, thank them for their consideration and time. <br>
 
-#### Sign Off <br>
+#### Sign off <br>
 
-Yours Faithfully, <br>
+Yours faithfully, <br>
 (Signature) <br>
 (Name) <br>
-(Your Title) <br>
-(Your School Or Company Name) <br>
+(Your title) <br>
+(Your school or company name) <br>
 
 ### Feature Article 專題  <br>
 
 #### Title <br>
 
-Give Your Article A Short And Interesting Title To Attract The Interest Of The Reader, Also Add The Time And Date Of Publishing  <br>
+Give your article a short and interesting title to attract the interest of the reader, also add the time and date of publishing  <br>
 
 #### Opening <br>
 
-Introduce Your Topic By Providing Some Background Information On The Issue/Situation (提供主題的背景資料). <br>
+Introduce your topic by providing some background information on the issue/situation (提供主題的背景資料). <br>
 
-Provide A Definition <br>
-The Background Story Of The Topic <br>
+Provide a definition <br>
+The background story of the topic <br>
 
 #### Body <br>
 
-Elaborate On The Topic And Give Reasons And Evidence (証據) To Support Your Viewpoints. <br>
+Elaborate on the topic and give reasons and evidence (証據) to support your viewpoints. <br>
 
-Reasons For The Rise In Popularity Of The Topic Of The Passage: Comfort, Style, Change In Lifestyle, Convenience, Affordability, Celebrity Endorsement <br>
+Reasons for the rise in popularity of the topic of the passage: comfort, style, change in lifestyle, convenience, affordability, celebrity endorsement <br>
 Closing <br>
 
-Briefly Summarise Your Ideas, Make Your Conclusion Concise And Thought-Provoking (發人深省). <br>
+Briefly summarise your ideas, make your conclusion concise and thought-provoking (發人深省). <br>
 
 ### Blog 日誌 <br>
 
 #### Title <br>
 
-Give Your Blog Post A Short And Interesting Title To Attract The Interest Of The Reader, Also Add The Time And Date Of Publishing  <br>
+Give your blog post a short and interesting title to attract the interest of the reader, also add the time and date of publishing  <br>
 
 #### Opening <br>
 
-Introduce Your Topic By Providing Some Background Information Of The Issue/Situation/Product You Might Be Reviewing <br>
+Introduce your topic by providing some background information of the issue/situation/product you might be reviewing <br>
 
-Provide A Definition, What Prompted (啟發) You To Write A Post About This Topic <br>
+Provide a definition, what prompted (啟發) you to write a post about this topic <br>
 
 #### Body <br>
 
-Elaborate On The Topic And Give Reasons And Evidence To Support Your Viewpoints <br>
+Elaborate on the topic and give reasons and evidence to support your viewpoints <br>
 
-Example (As A Traveller Blog): Reasons Why You Think Travelling To The Place You Mention Is A Really Good Idea, And What You Experienced There <br>
+Example (As a traveller blog): Reasons why you think travelling to the place you mention is a really good idea, and what you experienced there <br>
 
 #### Closing <br>
 
-Briefly Summarise Your Ideas, Make Your Conclusion Concise And Thought-Provoking. <br>
+Briefly summarise your ideas, make your conclusion concise and thought-provoking. <br>
 
-Ask For Readers To Leave A Comment Or Share Their Thoughts  <br>
+Ask for readers to leave a comment or share their thoughts  <br>
 
-### Formal Letter 正式書信 <br>
+### Formal letter 正式書信 <br>
 
 #### Greeting <br>
 
@@ -320,59 +320,59 @@ Dear Sir/Madam, <br>
 
 #### Opening <br>
 
-State Your Purpose Clearly <br>
-“in Response To The Central Library'S Open Call For Submission Of Activities At The Coming Arts Festival, I Am Writing With Two Suggestions For Your Consideration.” <br>
+State your purpose clearly <br>
+“In response to the Central Library's open call for submission of activities at the coming arts festival, I am writing with two suggestions for your consideration.” <br>
 
 #### Body <br>
 
-Example: The Purpose Of The Letter Is Suggesting Activities To Increase Students’ Interest In Learning English <br>
+Example: The purpose of the letter is suggesting activities to increase students’ interest in learning English <br>
 
-Describe The 1st Activity In Detail And Explain How It Would Work To Support Your Purpose. <br>
+Describe the 1st activity in detail and explain how it would work to support your purpose. <br>
 
-Useful Expressions For Making A Suggestion: <br>
-“my First Suggestion Is…”    <br>
- “first Of All, I Suggest…”   <br>
-“i Would Like To Suggest” <br>
-Describe The 2nd Activity In Detail And Explain How It Would Increase Students’ Interest In Learning English <br>
+Useful expressions for making a suggestion: <br>
+“My first suggestion is…”    <br>
+ “First of all, I suggest…”   <br>
+“I would like to suggest” <br>
+Describe the 2nd activity in detail and explain how it would increase students’ interest in learning English <br>
 
-Useful Expressions For Making Further Suggestions: <br>
-“i Further Suggest…” <br>
-“i Would Further Suggest…” <br>
-“another Possibility Is…” <br>
-“a Further Possibility Is…” <br>
+Useful expressions for making further suggestions: <br>
+“I further suggest…” <br>
+“I would further suggest…” <br>
+“Another possibility is…” <br>
+“A further possibility is…” <br>
 
 #### Closing <br>
 
-Briefly Restate Your Two Suggestions And Reasons <br>
-Show Your Willingness To Offer Further Help <br>
+Briefly restate your two suggestions and reasons <br>
+Show your willingness to offer further help <br>
 
-“i Hope My Suggestions Are Of Benefit To You. I Will Be Delighted/I Am More Than Willing To Provide More Specific Information Regarding My Suggested Activities.” <br>
+“I hope my suggestions are of benefit to you. I will be delighted/I am more than willing to provide more specific information regarding my suggested activities.” <br>
 
-#### Sign Off <br>
+#### Sign off <br>
 
-Yours Faithfully <br>
+Yours faithfully <br>
 (Signature) <br>
 (Name) <br>
-(Your Title) <br>
-(Your School Or Company Name) <br>
+(Your title) <br>
+(Your school or company name) <br>
 
 ### Business Letter 商務書信 <br>
 
 #### Formatting  <br>
 
-In The Top Left: <br>
-(Sender Name) <br>
-(Sender’s Company Name) <br>
-(Sender’s Street Address) <br>
-(Sender’s City, State/Province, Zip And Postal Code) <br>
+In the top left: <br>
+(Sender name) <br>
+(Sender’s company name) <br>
+(Sender’s street address) <br>
+(Sender’s city, state/province, zip and postal code) <br>
 
 #### Date <br>
 
-(Recipient’s Name) <br>
-(Recipient’s Company Name) <br>
-(Recipient’s Street Address) <br>
-(Recipient’s City, State/Province, Zip And Postal Code) <br>
-( Recipient’s Phone Number And Or Email Address) <br>
+(Recipient’s name) <br>
+(Recipient’s company name) <br>
+(Recipient’s street address) <br>
+(Recipient’s city, state/province, zip and postal code) <br>
+( Recipient’s phone number and or email address) <br>
 
 #### Greeting <br>
 
@@ -380,42 +380,42 @@ Dear Sir/Madam, <br>
 
 #### Opening <br>
 
-State Your Purpose Clearly, Explain: <br>
-Why Are You Writing This Letter <br>
-What You Hope To Achieve From Writing It <br>
-Include Any Other Important Information You Want To Get Out Upfront <br>
+State your purpose clearly, explain: <br>
+Why are you writing this letter <br>
+What you hope to achieve from writing it <br>
+Include any other important information you want to get out upfront <br>
 
 #### Body <br>
 
-Elaborate And Provide More Detail About What You Outlined In The First Paragraph <br>
+Elaborate and provide more detail about what you outlined in the first paragraph <br>
 
-Propose Methods About How The Purpose Can Be Achieved <br>
+Propose methods about how the purpose can be achieved <br>
 
 #### Closing <br>
 
-Briefly Restate Your Purpose  <br>
-Show Your Willingness To Offer Further Help Or Clarifications <br>
+Briefly restate your purpose  <br>
+Show your willingness to offer further help or clarifications <br>
 
-End With A Call To Action (呼籲讀者採取行動) <br>
+End with a call to action (呼籲讀者採取行動) <br>
 
-Example: “we Hope To Hear From You Soon.” <br>
+Example: “We hope to hear from you soon.” <br>
 
-#### Sign Off <br>
+#### Sign off <br>
 
 Sincerely, <br>
 (Signature) <br>
 (Name) <br>
-(Your Title) <br>
-(Your Company Name) <br>
+(Your title) <br>
+(Your company name) <br>
 
 ### Complaint Letter 投訴信 <br>
 
 #### Formatting <br>
 
-In The Top Left-Hand Corner: <br>
-(Sender’s Address) <br>
+In the top left-hand corner: <br>
+(Sender’s address) <br>
 (Date) <br>
-(Receiver’s Address) <br>
+(Receiver’s address) <br>
 
 #### Greeting <br>
 
@@ -423,30 +423,30 @@ Dear Sir/Madam, <br>
 
 #### Opening <br>
 
-Sum Up The Purpose Of Writing The Letter In One Line. This Helps The Receiver Focus On The Subject Of The Letter In One Glance (幫助讀者的焦點集中在書信的主題上). It Is Important To Underline The Subject.  <br>
+Sum up the purpose of writing the letter in one line. This helps the receiver focus on the subject of the letter in one glance (幫助讀者的焦點集中在書信的主題上). It is important to underline the subject.  <br>
 
 #### Body <br>
 
-This Is The Main Content Of The Letter. It Is Either Divided Into Three Paragraphs Or Two Paragraphs If The Letter Is Briefer. The Tone Of The Content Should Be Formal. Do Not Use Any Offensive Language (不要用任何冒犯性的語言). Another Point To Be Kept In Mind Is That The Letter Should Be Concise And To The Point. And Always Be Respectful And Considerate In Your Language. This Section Should Include:  <br>
+This is the main content of the letter. It is either divided into three paragraphs or two paragraphs if the letter is briefer. The tone of the content should be formal. Do not use any offensive language (不要用任何冒犯性的語言). Another point to be kept in mind is that the letter should be concise and to the point. And always be respectful and considerate in your language. This section should include:  <br>
 
-Short Introduction Paragraph: Provide Details About The Product Or Service That Is The Subject Of The Complaint. Include Dates, Location And The Specifications About The Item Or Service. <br>
-Example: “to My Dismay, I Have Not Received The Set I Ordered For And Have Instead, Received The Wrong Book Set. I Am Highly Disappointed.” <br>
-State The Issue With An Item Or Service. Provide Details As To The Cause. This May Include Malfunction, Billing Issues, Details That Were Not Disclosed, Etc. <br>
-Indicate How You Would Like Them To Resolve Your Problem. Provide Specifics About What You’re Seeking (提供詳細的要求). <br>
-Indicate You Are Including Copies Of Transaction Documents. <br>
+Short introduction paragraph: Provide details about the product or service that is the subject of the complaint. Include dates, location and the specifications about the item or service. <br>
+Example: “To my dismay, I have not received the set I ordered for and have instead, received the wrong book set. I am highly disappointed.” <br>
+State the issue with an item or service. Provide details as to the cause. This may include malfunction, billing issues, details that were not disclosed, etc. <br>
+Indicate how you would like them to resolve your problem. Provide specifics about what you’re seeking (提供詳細的要求). <br>
+Indicate you are including copies of transaction documents. <br>
 
 #### Closing <br>
 
-Indicate You Look Forward To Their Reply Within A Specific Time Period. <br>
+Indicate you look forward to their reply within a specific time period. <br>
 
-Example: “i Look Forward To Your Reply And A Resolution To My Problem And Will Wait Until The Aforementioned Time Before Seeking Help From A Consumer Protection Agency Or The Better Business Bureau.”  <br>
-Indicate That They Can Contact You About The Issue And Provide Your Contact Details. <br>
+Example: “I look forward to your reply and a resolution to my problem and will wait until the aforementioned time before seeking help from a consumer protection agency or the Better Business Bureau.”  <br>
+Indicate that they can contact you about the issue and provide your contact details. <br>
 
-Example: “please Contact Me At The Above Address Or By Phone At 098100xxxxx.” <br>
+Example: “Please contact me at the above address or by phone at 098100XXXXX.” <br>
 
-#### Sign Off <br>
+#### Sign off <br>
 
-Yours Faithfully / Sincerely, <br>
+Yours faithfully / sincerely, <br>
 (Signature) <br>
 (Name) <br>
 
@@ -454,41 +454,41 @@ Yours Faithfully / Sincerely, <br>
 
 #### Title <br>
 
-Title Summarising The Event / Project / Topic The Report Will Be Based On, This Includes The Name Of The Author(S) And The Date Of Report Preparation. <br>
+Title summarising the event / project / topic the report will be based on, this includes the name of the author(s) and the date of report preparation. <br>
 
 #### Summary <br>
 
-There Needs To Be A Summary Of The Major Points, Conclusions, And Recommendations. It Needs To Be Short As It Is A General Overview Of The Report. Some People Will Read The Summary And Only Skim The Report (部份人只會閲讀概要並快速地掃視內文), So Make Sure You Include All The Relevant Information. It Would Be Best To Write This Last So You Will Include Everything, Even The Points That Might Be Added At The Last Minute. <br>
+There needs to be a summary of the major points, conclusions, and recommendations. It needs to be short as it is a general overview of the report. Some people will read the summary and only skim the report (部份人只會閲讀概要並快速地掃視內文), so make sure you include all the relevant information. It would be best to write this last so you will include everything, even the points that might be added at the last minute. <br>
 
 #### Intro <br>
 
-The First Page Of The Report Needs To Have An Introduction. You Will Explain The Problem And Show The Reader Why The Report Is Being Made. You Need To Give A Definition Of Terms If You Did Not Include These In The Title Section And Explain How The Details Of The Report Are Arranged.   <br>
+The first page of the report needs to have an introduction. You will explain the problem and show the reader why the report is being made. You need to give a definition of terms if you did not include these in the title section and explain how the details of the report are arranged.   <br>
 
 #### Body <br>
 
-This Is The Main Section Of The Report. There Needs To Be Divided Into Several Sections, Each Having A Subtitle. Information Is Usually Arranged In Order Of Importance (以重要程度分先後) With The Most Important Information Coming First.  <br>
+This is the main section of the report. There needs to be divided into several sections, each having a subtitle. Information is usually arranged in order of importance (以重要程度分先後) with the most important information coming first.  <br>
 
 #### Closing <br>
 
-This Is Where Everything Comes Together. Summarise Points You Have Made. Keep This Section Free Of Jargon As Most People Will Read The Summary And Conclusion (因大部份人只會閲讀概要和結尾，所以盡量減少或免去較深的詞彙).     <br>
+This is where everything comes together. Summarise points you have made. Keep this section free of jargon as most people will read the Summary and Conclusion (因大部份人只會閲讀概要和結尾，所以盡量減少或免去較深的詞彙).     <br>
 
-Ask For Readers To Leave A Comment Or Share Their Thoughts <br>
+Ask for readers to leave a comment or share their thoughts <br>
 
 ### Speech 演講辭 <br>
 
 #### Opening <br>
 
-Choose A Hook To Grab The Audience’s Attention Right Away (應先勾引觀眾的注意力). <br>
+Choose a hook to grab the audience’s attention right away (應先勾引觀眾的注意力). <br>
 
-For Example, If You Are Writing A Motivational Speech About Weight Loss, Then You Might Say Something Like, “five Years Ago, I Could Not Walk Up A Flight Of Stairs Without Needing To Take A Break Halfway Up.” <br>
+For example, if you are writing a motivational speech about weight loss, then you might say something like, “Five years ago, I could not walk up a flight of stairs without needing to take a break halfway up.” <br>
 
 #### Body <br>
 
-Address Each Of Your Main Points In A Logical Order.  <br>
+Address each of your main points in a logical order.  <br>
 
-After Introducing Your Topic And Providing Context, Launch Right Into Your Points. State Each Point Clearly And Offer Additional Information, Evidence, Facts, And Statistics To Explain Each Of Your Points. Plan To Devote About 1 Paragraph To Each Of Your Points. <br>
+After introducing your topic and providing context, launch right into your points. State each point clearly and offer additional information, evidence, facts, and statistics to explain each of your points. Plan to devote about 1 paragraph to each of your points. <br>
 
-Include Transitions (轉折語) To Guide Your Audience Through Your Speech <br>
+Include transitions (轉折語) to guide your audience through your speech <br>
 
 Then <br>
 Next <br>
@@ -496,54 +496,54 @@ Before <br>
 After <br>
 First <br>
 Second <br>
-In That Moment <br>
-The Following Week <br>
+In that moment <br>
+The following week <br>
 
 #### Closing <br>
 
-Conclude Your Speech With A Call-To-Action (以呼籲觀眾採取行動作總結). As You Near The End Of Your Speech, Your Audience Should Be Excited By Your Topic And Ready To Act.  <br>
+Conclude your speech with a call-to-action (以呼籲觀眾採取行動作總結). As you near the end of your speech, your audience should be excited by your topic and ready to act.  <br>
 
-Encourage Your Audience To Find Out More And Participate In A Solution To The Problem You Have Described By Telling Them How They Can Do So. This Is A Great Opportunity To Share Resources With Your Audience And To Give Them Some Direction For How They Can Participate (為觀眾提供可行的方向以參與你所提出的行動). <br>
+Encourage your audience to find out more and participate in a solution to the problem you have described by telling them how they can do so. This is a great opportunity to share resources with your audience and to give them some direction for how they can participate (為觀眾提供可行的方向以參與你所提出的行動). <br>
 
-#### Sign Off <br>
+#### Sign off <br>
 
-End With A Powerful, Short Sentence That Is Likely To Stick In The Audience'S Minds (以一句強而有力的句子作為演廣的未句，最好可以牢牢抓住觀眾的心). <br>
+End with a powerful, short sentence that is likely to stick in the audience's minds (以一句強而有力的句子作為演廣的未句，最好可以牢牢抓住觀眾的心). <br>
 
-### Letter To The Editor 讀者投稿 <br>
+### Letter to the editor 讀者投稿 <br>
 
 #### Greeting <br>
 
-Dear Editor, <br>
+Dear editor, <br>
 
 #### Opening <br>
 
-State Your Purpose Clearly <br>
-Cite Your Stance (主張) <br>
-Example: “i Am Writing To Dispute Recent Claims About Our Graduates, Which Portray Them As Lazier Counterparts To Past Generations Who Are Unlikely To Face Challenges At The Workplace.” <br>
+State your purpose clearly <br>
+Cite your stance (主張) <br>
+Example: “I am writing to dispute recent claims about our graduates, which portray them as lazier counterparts to past generations who are unlikely to face challenges at the workplace.” <br>
 
 #### Body <br>
 
-1. Give Reasons, Present Evidence (證據) (E.G. Facts Or Figures) And Examples To Support Your Viewpoints <br>
-2. Raise Opponents’ Points Of View And Provide Evidence To Refute (駁斥) Their Points Of View <br>
+1. Give reasons, present evidence (證據) (e.g. facts or figures) and examples to support your viewpoints <br>
+2. Raise opponents’ points of view and provide evidence to refute (駁斥) their points of view <br>
 
-Useful Expressions For Argumentative Writing: <br>
+Useful expressions for argumentative writing: <br>
 
-“i Believe/Suppose…”               <br>
-“it Occurs/Seems To Me That…” <br>
-“there Is No Doubt That…” <br>
-“it Is Obvious/ Undeniable That…” <br>
-“some People Claim / Argue / Believe / Think That…” <br>
-“an Argument Commonly Put Forward Is That…” <br>
-“those That Support (Topic) Argue / Believe / Claim That…” <br>
-“i Can See No Reason Why…”  <br>
-“there Is No Evidence To Suggest That…” <br>
+“I believe/suppose…”               <br>
+“It occurs/seems to me that…” <br>
+“There is no doubt that…” <br>
+“It is obvious/ undeniable that…” <br>
+“Some people claim / argue / believe / think that…” <br>
+“An argument commonly put forward is that…” <br>
+“Those that support (topic) argue / believe / claim that…” <br>
+“I can see no reason why…”  <br>
+“There is no evidence to suggest that…” <br>
 
 #### Closing <br>
 
-Restate Your Stance: You Disagree With The Stated Opinion <br>
+Restate your stance: you disagree with the stated opinion <br>
 
-#### Sign Off <br>
+#### Sign off <br>
 
-Yours Faithfully, <br>
+Yours faithfully, <br>
 (Signature) <br>
 (Name) <br>
