@@ -82,6 +82,16 @@
 * `There is a lot of hue and cry on this situation.`
 
 ### Proposal
+* `I am highly concerned with the problem of XXX...`
+* `The purpose of this proposal is to suggest ways in which the XXX can be extended at no additional cost...`
+* `I am seeking your permission to ...`
+* `I am writing to seek your approval for/ permission to...`
+* `To promote appropriate attitude and the importance of XXX, I would like to suggest/ address...`
+* `It is suggested that/ proposed that...`
+* `This results from/ This is due to...`
+* `Take XXX as an example...`
+* `To conclude, it would be possible to ...`
+* `In view of the above, it is time for us to devise new strategy to deal with it.`
 
 ### Speech
 
@@ -91,14 +101,27 @@
 * `I’m going to talk about...`
 * `The subject of my talk is...`
 * `My talk will be in` (number of points)
+* `I would like to share with you my experiences as XXX...`
 * `To sum up...`
 * `In brief, there are several advantages and disadvantages.`
 * `I’d like to end by emphasizing the main points.`
 * `I’d like to end with a summary of the main points.`
+* `I'd recommend xxx...`
 
 ### Short Story
+* 
 
 ### Article 
+* `As a result of (phenomenon)...`
+* `According to the principle of XXX/ a recent study/ research study...`
+* `The major reasons why...`
+* `There is no denying for the existing problem...`
+* `To commence with, it is vital for the school/ government to...`
+* `In fact, the genuine measures to cope with the problem lie on...`
+* `Moreover, schools are duty-born to alleviate the workload...`
+* `It is definitely not an ideal solution for...`
+* `For the problem to be solved, some advocates suggested that...`
+* `Another suggestion to the matter is...`
 
 # Writing content
 
