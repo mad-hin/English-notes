@@ -88,5 +88,48 @@ wdfwdf|sdf
 
 ## Workplace communication
 
+|Useful expressions                          | 
+| ------------------------------------------ |
+| a good team player|
+| able to meet tight deadlines|
+| able to work under pressure|
+| willing to accept challenges|
+| Given my qualifications/ work experience, I'm confident that I can meet the challenges ahead.|
+| I value every chance to learn new things and broaden my horizon|
+
 
 ## Social issue
+| English Name                               | 中文名稱         |
+| ------------------------------------------ | ---------------- |
+| loss of natural habitats                   |失去自然棲息地|
+| food chain imbalance                       |食物鏈失衡|
+| ecosystem imbalance                        |生態失衡|
+| controversial                              |具爭議性的|
+| livelihood                                 |生計|
+| poverty line                               |貧窮線|
+| economic depression                        |經濟衰退|
+| overcome the adversity                     |渡過時艱|
+| widen wealth gap                           |擴闊貧富差距|
+| collective memory                          |集體回憶|
+| resist temptation                          |抵抗誘惑|
+| medical mishaps                            |醫療事故|
+
+|Useful expressions                          | 
+| ------------------------------------------ |
+| arouse the public's awareness|
+| educate the public|
+| get rid of/ avoid wasteful habits|
+| maintain/ improve quality of life|
+| take prompt action/ act quickly|
+| With all these measures in place| 
+| To prevent the situation from getting even worse|
+| In societies like Hong Kong, with large populations in small spaces|
+| The government’s encouragement of Internet use is also a contributing factor|
+| This is a world-wide phenomenon that has been identified by the (association)|
+| Yet the problem of Internet addiction can be solved with coordinated social effort|
+| Social welfare organisations have a role to play in addressing the problem as well|
+| punishment should also be introduced by law|
+| XXX is defined as ...|
+| In mainland China, **an estimated** 13.2% **of teenagers are addicted to Internet use** , **with a recent survey indicating** 15.4% of Hong Kong teenagers were also addicted. |
+| I would like to address the need to increase law enforcement|
+| I must say to eliminate this social ill is a responsibility we, as a society, should not turn a blind eye to.|
