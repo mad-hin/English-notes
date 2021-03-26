@@ -133,3 +133,20 @@ wdfwdf|sdf
 | In mainland China, **an estimated** 13.2% **of teenagers are addicted to Internet use** , **with a recent survey indicating** 15.4% of Hong Kong teenagers were also addicted. |
 | I would like to address the need to increase law enforcement|
 | I must say to eliminate this social ill is a responsibility we, as a society, should not turn a blind eye to.|
+
+##Tourism in Hong Kong
+| Location                               | Description      |
+| ---------------------------------------| ---------------- |
+|The Peak | is Hong Kong Island’s highest point, with stunning panoramic views of the city below, best seen at night|
+|Peak Tower | is famous for its viewing platform|
+|Peak Circle Walk | looking at Hong Kong Island’s scenic south side|
+|Ladies' Market | selling bargain clothing, accessories , souvenirs|
+|Big Buddha and Po Lin Monastery | religious monuments, set against beautiful mountain and coastal scenery|
+|Ocean Park | Hong Kong’s longest-running family-friendly theme park, have created special childhood memories they hold close to their hearts|
+|           |With fun activities and thrill rides, dining spots, and even educational options all packed into one convenient setting|
+|           |marine-themed Aqua City, interactive exhibit Amazing Asian Animals, and the activity-filled Whiskers Harbour|
+|           |a deeper educational experience, Ocean Park has plenty more animal exhibitions|
+|           | get up close with animals, learn about wildlife conservation as well as animals’ daily routines|
+
+
+
