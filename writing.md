@@ -1,8 +1,8 @@
 # Writing
 
-# Sentence pattern
+## Sentence pattern
 
-## Proposing suggestions
+#### Proposing suggestions
 
 * `It is advisable for` XXX to (verb: reconsider/examine/evaluate...) `the policy`...
 * `Hence, I proposed that` XXX `should be made available.`
@@ -13,7 +13,7 @@
 * `It is feasible for` XXX to (verb: reallocate...)...
 * `We genuinely hope that` XXX `would accept our proposal and come up with a` XXX `policy`...
 
-## Point out reason
+#### Point out reason
 
 * `It is noted that`...
 * `Due to` XXX...
@@ -24,49 +24,49 @@
 * `To begin with, it is beyond dispute`...
 * `Another reason that people voice out their complaints is that`...
 
-## Provide evidence/ data to support arguments
+#### Provide evidence/ data to support arguments
 
 * `Recent research shows that found out that`...
 * `Medical experts have pointed out that`...
 
-## Opening & Ending
+#### Opening & Ending
 
-### Complaint Letter
+###### Complaint Letter
 
 * Writing a complaint`
 
-| Opening|
-| ------------------------------------------| 
-|I am writing to complaint...|
-|I am writing to express my concern of|
-|I would like to that this opportunity to express my disappointment towards XXX|
-|I am writing to express my dissatisfaction with|
-|I would like to emphasize the importance of|
+| Opening                                                                        |
+| ------------------------------------------------------------------------------ |
+| I am writing to complaint...                                                   |
+| I am writing to express my concern of                                          |
+| I would like to that this opportunity to express my disappointment towards XXX |
+| I am writing to express my dissatisfaction with                                |
+| I would like to emphasize the importance of                                    |
 
-| Details of your complaint|
-| ------------------------------------------| 
-|To begin with, it was unacceptable and intolerable for you to ...|
-|I would like to highlight once again the` XXX.
-|It is extremely disrespectful for your staff to...`
+| Details of your complaint                                         |
+| ----------------------------------------------------------------- |
+| To begin with, it was unacceptable and intolerable for you to ... |
+| I would like to highlight once again the` XXX.                    |
+| It is extremely disrespectful for your staff to...`               |
 
-| Call for action                            |
-| ------------------------------------------ | 
-|In light of my experience, I think that is is incumbent upon you to...|
-|Should you be unable to give me a refund, I will have no choice but to refer the matter to the Consumer Council|
-|Unless you are able to... I regret that I will be compelled to...|
-|I sincerely hope that all of you read through this email seriously to XXX|
-|Therefore, in the foreseeable future, please act more responsibly and follow...|
-|I hope my points will be taken into consideration.|
-|I sincerely hope that after reading this email, you would learn how to reflect on|
-|Thanks for your extremely helpful attention towards this matter.|
-|I hope this letter will rise up to the occasion and give a new definition and direction to the ways and means of the concerned authorities.|
+| Call for action                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
+| In light of my experience, I think that is is incumbent upon you to...                                                                      |
+| Should you be unable to give me a refund, I will have no choice but to refer the matter to the Consumer Council                             |
+| Unless you are able to... I regret that I will be compelled to...                                                                           |
+| I sincerely hope that all of you read through this email seriously to XXX                                                                   |
+| Therefore, in the foreseeable future, please act more responsibly and follow...                                                             |
+| I hope my points will be taken into consideration.                                                                                          |
+| I sincerely hope that after reading this email, you would learn how to reflect on                                                           |
+| Thanks for your extremely helpful attention towards this matter.                                                                            |
+| I hope this letter will rise up to the occasion and give a new definition and direction to the ways and means of the concerned authorities. |
 
 * Replying a complaint
     - `I am writing refer to you some of the views and suggestion that you have recently raised up`
     - `I received your address from ... and would like to ...`
     - `If we can be of any further assistance, please let us know`
 
-### Letter of Advice
+###### Letter of Advice
 
 * `I would like to offer you some advice on how to prepare for the ... and what to...`
 * `I think the first thing you have to do...`
@@ -84,7 +84,7 @@
 * `I really hope you can take my advice...`
 * `I am always here to help. Just let me know if you are any problems`
 
-### Letter to the Editor
+###### Letter to the Editor
 
 * `I am writing to register my concern about XXX ...`
 * `In light of this, I hope to bring to the public's attention...`
@@ -93,7 +93,8 @@
 * `I was deeply pained to read the press report in your newspaper captioned ‘`(Title)`’ that appeared on the ...`
 * `There is a lot of hue and cry on this situation.`
 
-### Proposal
+###### Proposal
+
 * `I am highly concerned with the problem of XXX...`
 * `The purpose of this proposal is to suggest ways in which the XXX can be extended at no additional cost...`
 * `I am seeking your permission to ...`
@@ -105,7 +106,7 @@
 * `To conclude, it would be possible to ...`
 * `In view of the above, it is time for us to devise new strategy to deal with it.`
 
-### Speech
+###### Speech
 
 * `Good morning/afternoon` (audience).
 * `It’s a pleasure to be here.`
@@ -120,7 +121,8 @@
 * `I’d like to end with a summary of the main points.`
 * `I'd recommend xxx...`
 
-### Short Story
+###### Short Story
+
 * `A while later...`
 * `After some time…`
 * `At the same time…`
@@ -135,12 +137,12 @@
 * `I saw an odd looking lady…`
 * `All people backed to their home and trapped this terrible experience in the deepest region of their brain`
 * `As far as I could remember, I had always been in a cage since my birth...`
-* `Where am I? I was confused but my curiosity drove me to get out of the bed to found out what was going on.` 
+* `Where am I? I was confused but my curiosity drove me to get out of the bed to found out what was going on.`
 * `I walked down stairs and see if anyone was here`
 * `Out of curiosity, I decided to...`
-* 
 
-### Article 
+###### Article 
+
 * `As a result of (phenomenon)...`
 * `According to the principle of XXX/ a recent study/ research study...`
 * `The major reasons why...`
@@ -152,8 +154,7 @@
 * `For the problem to be solved, some advocates suggested that...`
 * `Another suggestion to the matter is...`
 
-
-# Idioms
+## Idioms
 
 * Action speak louder than words (行動勝於空談)
 * Bad news travels fast (醜事傳千里)
