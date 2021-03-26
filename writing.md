@@ -33,21 +33,33 @@
 
 ### Complaint Letter
 
-* Writing a complaint
-    - `I am writing to complaint...`
-    - `I am writing to express my concern of...`
-    - `I would like to that this opportunity to express my disappointment towards` XXX
-    - `I am writing to express my dissatisfaction with` XXX
-    - `I sincerely hope that all of you read through this email seriously to` XXX
-    - `I would like to emphasize the importance of` XXX
-    - `To begin with, it was unacceptable and intolerable for you to ...`
-    - `Therefore, in the foreseeable future, please act more responsibly and follow` XXX 
-    - `I would like to highlight once again the` XXX.
-    - `It is extremely disrespectful for your staff to...`
-    - `I sincerely hope that after reading this email, you would learn how to reflect on...`
-    - `Thanks for your extremely helpful attention towards this matter.`
-    - `I hope my points will be taken into consideration.`
-    - `I hope this letter will rise up to the occasion and give a new definition and direction to the ways and means of the concerned authorities.`
+* Writing a complaint`
+
+| Opening|
+| ------------------------------------------| 
+|I am writing to complaint...|
+|I am writing to express my concern of|
+|I would like to that this opportunity to express my disappointment towards XXX|
+|I am writing to express my dissatisfaction with|
+|I would like to emphasize the importance of|
+
+| Details of your complaint|
+| ------------------------------------------| 
+|To begin with, it was unacceptable and intolerable for you to ...|
+|I would like to highlight once again the` XXX.
+|It is extremely disrespectful for your staff to...`
+
+| Call for action                            |
+| ------------------------------------------ | 
+|In light of my experience, I think that is is incumbent upon you to...|
+|Should you be unable to give me a refund, I will have no choice but to refer the matter to the Consumer Council|
+|Unless you are able to... I regret that I will be compelled to...|
+|I sincerely hope that all of you read through this email seriously to XXX|
+|Therefore, in the foreseeable future, please act more responsibly and follow...|
+|I hope my points will be taken into consideration.|
+|I sincerely hope that after reading this email, you would learn how to reflect on|
+|Thanks for your extremely helpful attention towards this matter.|
+|I hope this letter will rise up to the occasion and give a new definition and direction to the ways and means of the concerned authorities.|
 
 * Replying a complaint
     - `I am writing refer to you some of the views and suggestion that you have recently raised up`
@@ -140,7 +152,6 @@
 * `For the problem to be solved, some advocates suggested that...`
 * `Another suggestion to the matter is...`
 
-# Writing content
 
 # Idioms
 
