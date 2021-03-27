@@ -1,5 +1,68 @@
 # Listening <br>
 
+- [Listening <br>](#listening-)
+  - [Part A: Common Wordings](#part-a-common-wordings)
+    - [Places & Street Name In Hong Kong](#places--street-name-in-hong-kong)
+      - [District](#district)
+      - [Landmarks](#landmarks)
+      - [Mtr Stations/ Famous Places](#mtr-stations-famous-places)
+    - [Hong Kong Food](#hong-kong-food)
+    - [Country Names](#country-names)
+  - [Part B: Format <br>](#part-b-format-)
+    - [Proposal 建議書 <br>](#proposal-建議書-)
+      - [Greeting <br>](#greeting-)
+      - [Opening <br>](#opening-)
+      - [Body <br>](#body-)
+      - [Closing <br>](#closing-)
+      - [Sign off <br>](#sign-off-)
+    - [Feature Article 專題  <br>](#feature-article-專題--)
+      - [Title <br>](#title-)
+      - [Opening <br>](#opening--1)
+      - [Body <br>](#body--1)
+    - [Blog 日誌 <br>](#blog-日誌-)
+      - [Title <br>](#title--1)
+      - [Opening <br>](#opening--2)
+      - [Body <br>](#body--2)
+      - [Closing <br>](#closing--1)
+    - [Formal letter 正式書信 <br>](#formal-letter-正式書信-)
+      - [Greeting <br>](#greeting--1)
+      - [Opening <br>](#opening--3)
+      - [Body <br>](#body--3)
+      - [Closing <br>](#closing--2)
+      - [Sign off <br>](#sign-off--1)
+    - [Business Letter 商務書信 <br>](#business-letter-商務書信-)
+      - [Formatting  <br>](#formatting--)
+      - [Date <br>](#date-)
+      - [Greeting <br>](#greeting--2)
+      - [Opening <br>](#opening--4)
+      - [Body <br>](#body--4)
+      - [Closing <br>](#closing--3)
+      - [Sign off <br>](#sign-off--2)
+    - [Complaint Letter 投訴信 <br>](#complaint-letter-投訴信-)
+      - [Formatting <br>](#formatting-)
+      - [Greeting <br>](#greeting--3)
+      - [Opening <br>](#opening--5)
+      - [Body <br>](#body--5)
+      - [Closing <br>](#closing--4)
+      - [Sign off <br>](#sign-off--3)
+    - [Reports 報告 <br>](#reports-報告-)
+      - [Title <br>](#title--2)
+      - [Summary <br>](#summary-)
+      - [Intro <br>](#intro-)
+      - [Body <br>](#body--6)
+      - [Closing <br>](#closing--5)
+    - [Speech 演講辭 <br>](#speech-演講辭-)
+      - [Opening <br>](#opening--6)
+      - [Body <br>](#body--7)
+      - [Closing <br>](#closing--6)
+      - [Sign off <br>](#sign-off--4)
+    - [Letter to the editor 讀者投稿 <br>](#letter-to-the-editor-讀者投稿-)
+      - [Greeting <br>](#greeting--4)
+      - [Opening <br>](#opening--7)
+      - [Body <br>](#body--8)
+      - [Closing <br>](#closing--7)
+      - [Sign off <br>](#sign-off--5)
+
 ## Part A: Common Wordings
 
 ### Places & Street Name In Hong Kong 
@@ -120,9 +183,10 @@
 | Wong Tai Sin           | 黃大仙     |
 | Yau Tong               | 油塘       |
 
-![mtr map](http://www.mtr.com.hk/archive/en/services/routemap.pdf) <br>
+![mtr map](http://www.mtr.com.hk/en/customer/images/services/MTR_routemap_510.jpg)
+
+<br>
 Source: http://www.mtr.com.hk/en/customer/services/system_map.html
-#### Street Name
 
  ### Hong Kong Food
 | English Name                | 中文名稱  |

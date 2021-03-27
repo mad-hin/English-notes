@@ -1,5 +1,20 @@
 # Writing
 
+- [Writing](#writing)
+  - [Sentence pattern](#sentence-pattern)
+    - [Proposing suggestions](#proposing-suggestions)
+    - [Point out reason](#point-out-reason)
+    - [Provide evidence/ data to support arguments](#provide-evidence-data-to-support-arguments)
+    - [Opening & Ending](#opening--ending)
+      - [Complaint Letter](#complaint-letter)
+      - [Letter of Advice](#letter-of-advice)
+      - [Letter to the Editor](#letter-to-the-editor)
+      - [Proposal](#proposal)
+      - [Speech](#speech)
+      - [Short Story](#short-story)
+      - [Article](#article)
+  - [Idioms](#idioms)
+
 ## Sentence pattern
 
 ### Proposing suggestions
@@ -47,7 +62,7 @@
 | ----------------------------------------------------------------- |
 | To begin with, it was unacceptable and intolerable for you to ... |
 | I would like to highlight once again the XXX.                    |
-| It is extremely disrespectful for your staff to...H               |
+| It is extremely disrespectful for your staff to... H               |
 
 | Call for action                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
