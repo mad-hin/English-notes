@@ -183,10 +183,10 @@
 | Wong Tai Sin           | 黃大仙     |
 | Yau Tong               | 油塘       |
 
-![mtr map](http://www.mtr.com.hk/en/customer/images/services/MTR_routemap_510.jpg)
-
-<br>
-Source: http://www.mtr.com.hk/en/customer/services/system_map.html
+<object data="http://www.mtr.com.hk/archive/en/services/routemap.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://www.mtr.com.hk/archive/en/services/routemap.pdf">
+    </embed>
+</object>
 
  ### Hong Kong Food
 | English Name                | 中文名稱  |
