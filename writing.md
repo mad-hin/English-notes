@@ -2,7 +2,7 @@
 
 ## Sentence pattern
 
-#### Proposing suggestions
+### Proposing suggestions
 
 * `It is advisable for` XXX to (verb: reconsider/examine/evaluate...) `the policy`...
 * `Hence, I proposed that` XXX `should be made available.`
@@ -13,7 +13,7 @@
 * `It is feasible for` XXX to (verb: reallocate...)...
 * `We genuinely hope that` XXX `would accept our proposal and come up with a` XXX `policy`...
 
-#### Point out reason
+### Point out reason
 
 * `It is noted that`...
 * `Due to` XXX...
@@ -24,16 +24,16 @@
 * `To begin with, it is beyond dispute`...
 * `Another reason that people voice out their complaints is that`...
 
-#### Provide evidence/ data to support arguments
+### Provide evidence/ data to support arguments
 
 * `Recent research shows that found out that`...
 * `Medical experts have pointed out that`...
 
-#### Opening & Ending
+### Opening & Ending
 
-###### Complaint Letter
+#### Complaint Letter
 
-* Writing a complaint`
+* Writing a complaint
 
 | Opening                                                                        |
 | ------------------------------------------------------------------------------ |
@@ -46,8 +46,8 @@
 | Details of your complaint                                         |
 | ----------------------------------------------------------------- |
 | To begin with, it was unacceptable and intolerable for you to ... |
-| I would like to highlight once again the` XXX.                    |
-| It is extremely disrespectful for your staff to...`               |
+| I would like to highlight once again the XXX.                    |
+| It is extremely disrespectful for your staff to...H               |
 
 | Call for action                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@
     - `I received your address from ... and would like to ...`
     - `If we can be of any further assistance, please let us know`
 
-###### Letter of Advice
+#### Letter of Advice
 
 * `I would like to offer you some advice on how to prepare for the ... and what to...`
 * `I think the first thing you have to do...`
@@ -84,7 +84,7 @@
 * `I really hope you can take my advice...`
 * `I am always here to help. Just let me know if you are any problems`
 
-###### Letter to the Editor
+#### Letter to the Editor
 
 * `I am writing to register my concern about XXX ...`
 * `In light of this, I hope to bring to the public's attention...`
@@ -93,7 +93,7 @@
 * `I was deeply pained to read the press report in your newspaper captioned ‘`(Title)`’ that appeared on the ...`
 * `There is a lot of hue and cry on this situation.`
 
-###### Proposal
+#### Proposal
 
 * `I am highly concerned with the problem of XXX...`
 * `The purpose of this proposal is to suggest ways in which the XXX can be extended at no additional cost...`
@@ -106,7 +106,7 @@
 * `To conclude, it would be possible to ...`
 * `In view of the above, it is time for us to devise new strategy to deal with it.`
 
-###### Speech
+#### Speech
 
 * `Good morning/afternoon` (audience).
 * `It’s a pleasure to be here.`
@@ -121,7 +121,7 @@
 * `I’d like to end with a summary of the main points.`
 * `I'd recommend xxx...`
 
-###### Short Story
+#### Short Story
 
 * `A while later...`
 * `After some time…`
@@ -141,7 +141,7 @@
 * `I walked down stairs and see if anyone was here`
 * `Out of curiosity, I decided to...`
 
-###### Article 
+#### Article 
 
 * `As a result of (phenomenon)...`
 * `According to the principle of XXX/ a recent study/ research study...`

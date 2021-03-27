@@ -58,13 +58,8 @@
 | Ap Lei Chau            | 鴨脷洲     |
 | Asiaworld-Expo         | 博覽館     |
 | Austin                 | 柯士甸     |
-| Causeway Bay           | 銅鑼灣     |
-| Central                | 中環       |
-| Chai Wan               | 柴灣       |
 | Che Kung Temple        | 車公廟     |
-| Cheung Sha Wan         | 長沙灣     |
 | Choi Hung              | 彩虹       |
-| City One               | 第一城     |
 | Deep Water Bay         | 深水灣     |
 | Diamond Hill           | 鑽石山     |
 | Discovery Bay          | 愉景灣     |
@@ -78,90 +73,55 @@
 | Heng Fa Chuen          | 杏花邨     |
 | Heng On                | 恆安       |
 | Ho Man Tin             | 何文田     |
-| Hong Kong West Kowloon | 香港西九龍 |
-| Hong Kong              | 香港       |
 | Hung Hom               | 紅磡       |
 | Jordan                 | 佐敦       |
 | Kam Sheung Road        | 錦上路     |
 | Kennedy Town           | 堅尼地城   |
-| Kowloon Bay            | 九龍灣     |
-| Kowloon City           | 九龍城     |
-| Kowloon Tong           | 九龍塘     |
-| Kowloon                | 九龍       |
-| Kwai Chung             | 葵涌       |
-| Kwai Fong              | 葵芳       |
 | Kwun Tong              | 觀塘       |
 | Lai Chi Kok            | 荔枝角     |
-| Lai King               | 荔景       |
-| Lam Tin                | 藍田       |
 | Lamma Island           | 南丫島     |
 | Lantau Island          | 大嶼山     |
-| Lei Tung               | 利東       |
 | Lo Wu                  | 羅湖       |
 | Lohas Park             | 康城       |
 | Lok Fu                 | 樂富       |
 | Lok Ma Chau            | 落馬洲     |
-| Long Ping              | 朗屏       |
 | Ma On Shan             | 馬鞍山     |
-| Mei Foo                | 美孚       |
 | Mid-Levels             | 半山       |
-| Mong Kok East          | 旺角東     |
-| Mong Kok               | 旺角       |
 | Nam Cheong             | 南昌       |
 | Ngau Tau Kok           | 牛頭角     |
-| North Point            | 北角       |
-| Ocean Park             | 海洋公園   |
 | Olympic                | 奧運       |
-| Po Lam                 | 寶琳       |
 | Pok Fu Lam             | 薄扶林     |
 | Quarry Bay             | 鰂魚涌     |
 | Racecourse             | 馬場       |
 | Repulse Bay            | 淺水灣     |
 | Sai Kung               | 西貢       |
-| Sai Wan Ho             | 西灣河     |
 | Sai Ying Pun           | 西營盤     |
 | San Po Kong            | 新蒲崗     |
-| Sha Tin Wai            | 沙田圍     |
-| Sha Tin                | 沙田       |
 | Sham Shui Po           | 深水埗     |
 | Shau Kei Wan           | 筲箕灣     |
 | Shek Kip Mei           | 石硤尾     |
-| Shek Mun               | 石門       |
-| Shek O                 | 石澳       |
 | Sheung Shui            | 上水       |
 | Sheung Wan             | 上環       |
-| Siu Hong               | 兆康       |
-| South Horizons         | 海怡半島   |
 | Stanley                | 赤柱       |
 | Sunny Bay              | 欣澳       |
 | Tai Koo                | 太古       |
-| Tai O                  | 大澳       |
-| Tai Po Market          | 大埔墟     |
-| Tai Shui Hang          | 大水坑     |
 | Tai Wai                | 大圍       |
-| Tai Wo Hau             | 大窩口     |
-| Tai Wo                 | 太和       |
-| The Peak               | 山頂       |
 | Tin Hau                | 天后       |
 | Tin Shui Wai           | 天水圍     |
 | Tiu Keng Leng          | 調景嶺     |
 | Tseung Kwan O          | 將軍澳     |
 | Tsim Sha Tsui          | 尖沙咀     |
 | Tsing Yi               | 青衣       |
-| Tsuen Wan West         | 荃灣西     |
-| Tsuen Wan              | 荃灣       |
-| Tuen Mun               | 屯門       |
 | Tung Chung             | 東涌       |
 | University             | 大學       |
 | Wan Chai               | 灣仔       |
 | Whampoa                | 黃埔       |
 | Wong Chuk Hang         | 黃竹坑     |
 | Wong Tai Sin           | 黃大仙     |
-| Wu Kai Sha             | 烏溪沙     |
-| Yau Ma Tei             | 油麻地     |
 | Yau Tong               | 油塘       |
-| Yuen Long              | 元朗       |
 
+![mtr map](http://www.mtr.com.hk/archive/en/services/routemap.pdf) <br>
+Source: http://www.mtr.com.hk/en/customer/services/system_map.html
 #### Street Name
 
  ### Hong Kong Food
@@ -176,7 +136,6 @@
 | Hotpot                      | 火鍋      |
 | Peking Duck                 | 北京填鴨  |
 | Pineapple Bun               | 菠蘿包    |
-| Recipes                     | 食譜      |
 | Red Bean Soup               | 紅豆沙    |
 | Roasted Pork                | 燒肉      |
 | Seafood                     | 海鮮      |
