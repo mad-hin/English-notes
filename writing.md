@@ -5,6 +5,7 @@
     - [Proposing suggestions](#proposing-suggestions)
     - [Point out reason](#point-out-reason)
     - [Provide evidence/ data to support arguments](#provide-evidence-data-to-support-arguments)
+    - [Transition](#transition)
     - [Opening & Ending](#opening--ending)
       - [Complaint Letter](#complaint-letter)
       - [Letter of Advice](#letter-of-advice)
@@ -44,6 +45,27 @@
 * `Recent research shows that found out that`...
 * `Medical experts have pointed out that`...
 
+### Transition
+
+> Some teachers always encourage students not to use **First/Firstly, Second/Secondly**... in the passage.
+
+| Replacing First/Firstly                                        |
+| -------------------------------------------------------------- |
+| To begin with...                                               |
+| To start with...                                               |
+| To commence with...                                            |
+| Among all these, probably the first recurring in my mind is... |
+
+| Replacing Second/Secondly                                                              |
+| -------------------------------------------------------------------------------------- |
+| Equally important is that...                                                           |
+| Apart from that, what is also worthy of our attention is that...                       |
+| Aside from that...                                                                     |
+| Meanwhile/In the meantime, the XXX is also important/ a contributing factor of the XXX |
+| It is also important for us to take a glance/ address XXX                              |
+| In view of the alarming situation, it is essential for XXX to ...                      |
+| In order to...                                                                         |
+
 ### Opening & Ending
 
 #### Complaint Letter
@@ -61,8 +83,8 @@
 | Details of your complaint                                         |
 | ----------------------------------------------------------------- |
 | To begin with, it was unacceptable and intolerable for you to ... |
-| I would like to highlight once again the XXX.                    |
-| It is extremely disrespectful for your staff to... H               |
+| I would like to highlight once again the XXX.                     |
+| It is extremely disrespectful for your staff to... H              |
 
 | Call for action                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -182,3 +204,6 @@
 * Well begun is half done (好的開始是成功的一半)
 * Where there is will, there is a way (有志者, 事竟成)
 * Two heads are better than one (集思廣益)
+
+<hr>
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mad-hin/English-notes" rel="dct:source">https://github.com/mad-hin/English-notes</a>.
