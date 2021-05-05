@@ -84,7 +84,7 @@
 | ----------------------------------------------------------------- |
 | To begin with, it was unacceptable and intolerable for you to ... |
 | I would like to highlight once again the XXX.                     |
-| It is extremely disrespectful for your staff to... H              |
+| It is extremely disrespectful for your staff to...                |
 
 | Call for action                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
